@@ -1,0 +1,8 @@
+slides.com/mltechindiamltechindia/sql-databases-and-prisma-orm/
+
+
+
+
+
+
+postgresql://prac_owner:CGB0bwmFPz8K@ep-shrill-bread-a54a59xe.us-east-2.aws.neon.tech/prac?sslmode=require
